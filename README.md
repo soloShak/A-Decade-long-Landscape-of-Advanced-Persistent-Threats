@@ -1,2 +1,2 @@
 # A-Decade-long-Landscape-of-Advanced-Persistent-Threats
-The following repository is from the work of "A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends".
+This repository contains the data and resources from the research project titled "A Decade-long Landscape of Advanced Persistent Threats: Longitudinal Analysis and Global Trends." It includes the Dossier Collection and Threat Actor Collection, which are integral components of the study. The repository serves as a comprehensive resource for understanding the global trends and evolution of Advanced Persistent Threats (APTs) over the past decade.
